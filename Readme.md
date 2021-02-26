@@ -6,3 +6,9 @@
 <p align="justify">
   I am studying <b>Computer Science Engineering</b> at  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
 </p>
+## ABOUT ME
+- 🔭 I’m currently working on Web Development.
+- 🔧  I’m interested in Robotics, Android Application and Website
+- 🎯 My current goal is to learn MERN Stack, Python and Artificial intelligence
+- 📫 How to reach me: Email
+- 🎨 Fun fact: My fev food is "kacci"
