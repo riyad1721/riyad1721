@@ -4,3 +4,5 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in//)
 ![Profile views](https://gpvc.arturio.dev/msak04)
 <p align="justify">
+  I am studying <b>Computer Science Engineering</b> at  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
+</p>
