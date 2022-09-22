@@ -8,9 +8,13 @@
 </p>
 <h2 align="left">About me:</h2>
 - 🔭 I’m currently working on python Development.
+
 - 🔧  I’m interested in Robotics, Android Application and Website
+
 - 🎯 My current goal is to learn MERN Stack, Python and Artificial intelligence
+
 - 📫 How to reach me: Email
+
 - 🎨 Fun fact: My fev food is "kacci"
 
 ## Tools & Language
