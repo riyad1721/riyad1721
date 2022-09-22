@@ -7,7 +7,8 @@
   I am studying <b>Computer Science Engineering</b> at  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
 </p>
 <h2 align="left">About me:</h2>
-- 🔭 I’m currently working on python Development.
+
+- 🔭 I’m currently working as Jr. Software Engineer at Suffix IT Limited.
 
 - 🔧  I’m interested in Robotics, Android Application and Website
 
