@@ -14,6 +14,7 @@
 - 🎨 Fun fact: My fev food is "kacci"
 
 ## Tools & Language
+<!-- 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
@@ -34,4 +35,4 @@
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqSyWN3NTgVt613TRMroNlh_t52vo3tbXW2A&usqp=CAU"></code>
 <code><img height="50" src="https://cdn1.iconfinder.com/data/icons/adobe-3/512/Photoshop.png"></code>
 <code><img height="50" src="https://zsyst.com/wp-content/uploads/2017/05/Adobe-Premiere-Pro-Logo.png"></code>
-
+-->
