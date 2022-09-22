@@ -6,7 +6,7 @@
 <p align="justify">
   I am studying <b>Computer Science Engineering</b> at  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
 </p>
-## ABOUT ME
+<h2 align="left">About me:</h2>
 - 🔭 I’m currently working on python Development.
 - 🔧  I’m interested in Robotics, Android Application and Website
 - 🎯 My current goal is to learn MERN Stack, Python and Artificial intelligence
