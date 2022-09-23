@@ -16,7 +16,7 @@
 
 - 🔧  I’m interested in Augmented Reality, Virtual Reality2,Robotics
 
-- 🎯 My current goal is to learn and get more about the Artificial intelligence library, model, and framework
+- 🎯 My current goal is to learn and get more knowledge about the Artificial intelligence library, model, and framework
 
 - 📫 How to reach me: Email
 
