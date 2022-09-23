@@ -4,15 +4,19 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in//)
 ![Profile views](https://gpvc.arturio.dev/riyad1721)
 <p align="justify">
-  I am studying <b>Computer Science Engineering</b> at  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
+  I am completing my undergraduate in <a href="http://www.northsouth.edu/" target="_blank">North South University</a>. I am a <b>Computer Science Engineer</b>.I’m currently working as <b>Jr. Software Engineer at Suffix IT Limited.</b> My responsibility in this company is Image Processing  for object detection
 </p>
 <h2 align="left">About me:</h2>
 
-- 🔭 I’m currently working as Jr. Software Engineer at Suffix IT Limited.
+- 🔭 currently, I am working on an image processing project 
 
-- 🔧  I’m interested in Robotics, Android Application and Website
+- 📄  I am an expert in prediction-related problems all over supervised and unsupervised Machine Learning.
 
-- 🎯 My current goal is to learn MERN Stack, Python and Artificial intelligence
+- 💬 Ask me about Image Processing on computer vision-related problems.
+
+- 🔧  I’m interested in Augmented Reality, Virtual Reality2,Robotics
+
+- 🎯 My current goal is to learn and get more about the Artificial intelligence library, model, and framework
 
 - 📫 How to reach me: Email
 
