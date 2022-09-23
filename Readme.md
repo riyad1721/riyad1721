@@ -30,12 +30,12 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="cplusplus" width="50" height="50"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="cplusplus" width="50" height="50"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="cplusplus" width="50" height="50"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50" height="50"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/pandas.png" width="50" height="50"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="cplusplus" width="50" height="50"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="cplusplus" width="50" height="50"/> </a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="cplusplus" width="50" height="50"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" fill: #000; alt="cplusplus" width="50" height="50"/> </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/344/express-js.png" fill: #000; alt="cplusplus" width="50" height="50"/> </a>
 </p>
 
 
