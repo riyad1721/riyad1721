@@ -35,7 +35,7 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="cplusplus" width="50" height="50"/> </a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="cplusplus" width="50" height="50"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="cplusplus" width="50" height="50"/> </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" fill: #000; alt="cplusplus" width="50" height="50"/> </a>
 </p>
 
 
