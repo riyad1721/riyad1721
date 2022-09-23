@@ -37,7 +37,12 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50"/> </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/344/express-js.png" fill: #000; alt="cplusplus" width="50" height="50"/> </a>
 </p>
-
+<h3 align="left">Database:</h3>
+<p align="left"> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="git" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="git" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="git" width="40" height="40"/> </a>
+</p>
 
 <!-- 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
