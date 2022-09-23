@@ -39,8 +39,8 @@
 </p>
 <h3 align="left">Database:</h3>
 <p align="left"> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="git" width="60" height="50"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="git" width="60" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="git" width="80" height="60"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="git" width="80" height="60"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="git" width="50" height="50"/> </a>
 </p>
 
