@@ -14,7 +14,7 @@
 
 - 💬 Ask me about Image Processing on computer vision-related problems.
 
-- 🔧  I’m interested in Augmented Reality, Virtual Reality2,Robotics
+- 🔧  I’m interested in Augmented Reality, Virtual Reality,Robotics
 
 - 🎯 My current goal is to learn and get more knowledge about the Artificial intelligence library, model, and framework
 
