@@ -48,7 +48,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="git" width="50" height="50"/> </a>
 </p>
 
-![Md. Reyad Hossain GitHub stats](https://github-readme-stats.vercel.app/api?username=riyad1721&show_icons=true&theme=highcontrast)
+![Md. Reyad Hossain GitHub stats](https://github-readme-stats.vercel.app/api?username=riyad1721&show_icons=true&theme=radical)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyad1721&theme=dracula&layout=compact&hide_border=true)
 <!-- 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
