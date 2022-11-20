@@ -49,7 +49,7 @@
 </p>
 
 ![Md. Reyad Hossain GitHub stats](https://github-readme-stats.vercel.app/api?username=riyad1721&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyad1721&layout=compact)](https://github.com/riyad1721/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyad1721&layout=compact)](https://github.com/riyad1721/github-readme-stats)
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyad1721&langs_count=8)](https://github.com/riyad1721/github-readme-stats)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyad1721&theme=dracula&layout=compact&hide_border=true)
