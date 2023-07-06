@@ -2,7 +2,7 @@
 # I am MD Reyad Hossain
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:md.reyadhossain@northsouth.edu)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in//)
-![Profile views](https://gpvc.arturio.dev/riyad1721)
+![Profile views]([https://gpvc.arturio.dev](https://komarev.com/ghpvc/?username=riyad1721)
 <p align="justify">
   I am completing my undergraduate in <a href="http://www.northsouth.edu/" target="_blank">North South University</a>. I am a <b>Computer Science Engineer</b>.I’m currently working as <b>Jr. Software Engineer at Suffix IT Limited.</b> My responsibility in this company is Image Processing  for object detection
 </p>
