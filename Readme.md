@@ -4,7 +4,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in//)
 ![Profile views](https://komarev.com/ghpvc/?username=riyad1721)
 <p align="justify">
-  I am completing my undergraduate in <a href="http://www.northsouth.edu/" target="_blank">North South University</a>. I am a <b>Computer Science Engineer</b>.I’m currently working as <b>Jr. Software Engineer at Suffix IT Limited.</b> My responsibility in this company is Image Processing  for object detection
+  I am completing my undergraduate in <a href="http://www.northsouth.edu/" target="_blank">North South University</a>. I am a <b>Computer Science Engineer</b>.I’m currently working as <b>Artificial Intelligence Engineer at Suffix IT Limited.</b>
 </p>
 <h2 align="left">About me:</h2>
 
